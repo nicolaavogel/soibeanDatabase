@@ -1,0 +1,24 @@
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	0	0.752332	0.735007	0.750943	0.772206	75.854	0.969542	0.000228
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	0	0.247668	0.227794	0.249057	0.264993	75.854	0.969542	0.000228
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	1	0.752208	0.725571	0.753647	0.773942	46.5721	0.980911	0.000331464
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	1	0.247792	0.226058	0.246353	0.274429	46.5721	0.980911	0.000331464
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	2	0.248352	0.226451	0.250612	0.264258	215.079	0.970074	0.000233817
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	2	0.751648	0.735742	0.749388	0.773549	215.079	0.970074	0.000233817
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	3	0.242979	0.220507	0.2411	0.265632	127.884	0.979896	0.000337904
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	3	0.757021	0.734368	0.7589	0.779493	127.884	0.979896	0.000337904
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	0	0.755426	0.732671	0.755717	0.777316	260.964	0.978656	0.000300394
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	0	0.244574	0.222684	0.244283	0.267329	260.964	0.978656	0.000300394
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	1	0.24568	0.224849	0.244173	0.267072	383.888	0.976523	0.000284186
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	1	0.75432	0.732928	0.755827	0.775151	383.888	0.976523	0.000284186
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	2	0.754739	0.731446	0.756117	0.776465	338.405	0.977276	0.000280721
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	2	0.245261	0.223535	0.243883	0.268554	338.405	0.977276	0.000280721
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	3	0.245099	0.224663	0.244663	0.267039	285.568	0.975879	0.000271816
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	3	0.754901	0.732961	0.755337	0.775337	285.568	0.975879	0.000271816

@@ -1,0 +1,16 @@
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	0	0.983284	0.964321	0.986924	0.997392	4507.72	0.906645	0.000201233	4507.72
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	0	0.905113	0.798275	0.937224	0.988434	494.441	0.991925	0.0122738	494.44
+NC_009970.1_Melursus_ursinus_mitochondrion__complete_genome	0	0.793638	0.56261	0.844458	0.949873	232.298	0.99571	0.0278086	232.299
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009970.1_Melursus_ursinus_mitochondrion__complete_genome	1	0.812996	0.609608	0.861977	0.953667	377.734	0.995454	0.025545	377.734
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	1	0.901766	0.793769	0.936059	0.987859	416.436	0.993067	0.0141263	416.436
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	1	0.983718	0.96536	0.987256	0.997548	9963.58	0.902424	0.000191646	9963.59
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	2	0.626037	0.318591	0.645931	0.887208	291.544	0.996536	0.0441979	291.547
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	2	0.979373	0.958847	0.982615	0.995866	10415.5	0.892433	0.000240934	10415.5
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	2	0.904134	0.801226	0.935648	0.986605	736.972	0.990271	0.0123594	736.969
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	3	0.639004	0.34172	0.662691	0.8966	150.219	0.996474	0.0436941	150.221
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	3	0.979656	0.959087	0.982979	0.99599	9329.22	0.891058	0.000238616	9329.23
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	3	0.899886	0.788872	0.933956	0.986098	625.679	0.991341	0.0140245	625.677

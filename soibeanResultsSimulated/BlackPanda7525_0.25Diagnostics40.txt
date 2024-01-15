@@ -1,0 +1,10 @@
+Source	Highest log-likelihood	for chain	Rhat for the proportion estimate	Rhat for the branch position estimate
+N10Ursidae	-3647.3	3	-1	-1
+N11Ursidae	-3647.3	3	-1	-1
+NC_003428.1_Ursus_maritimus_mitochondrion__complete_genome	-3647.3	3	-1	-1
+N4Ursidae	-3647.3	3	-1	-1
+NC_009970.1_Melursus_ursinus_mitochondrion__complete_genome	-3647.3	3	-1	-1
+N3Ursidae	-3647.3	3	-1	-1
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	-3647.3	3	-1	-1
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	-3647.3	3	-1	-1
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	-3647.3	3	-1	-1
