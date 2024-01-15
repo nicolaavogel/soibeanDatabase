@@ -1,0 +1,24 @@
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	0	0.995413	0.993324	0.995814	0.996842	52.6456	0.979784	2.32298e-06	52.6456
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	0	0.989513	0.986779	0.989536	0.993016	57.5163	0.982523	8.02775e-06	57.5164
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	1	0.990105	0.986633	0.990586	0.993825	99.075	0.9878	1.17793e-05	99.0749
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	1	0.995291	0.993417	0.9955	0.99741	46.4613	0.986295	3.41131e-06	46.4613
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	2	0.989947	0.985461	0.99029	0.99357	99.9155	0.987803	1.12969e-05	99.9155
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	2	0.995077	0.992412	0.995759	0.996892	54.8045	0.985295	2.95735e-06	54.8045
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	3	0.995453	0.993302	0.995684	0.997144	54.2818	0.980444	2.45752e-06	54.2818
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	3	0.989929	0.986477	0.989821	0.993588	109.509	0.98642	9.55553e-06	109.509
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	0	0.995142	0.99285	0.995333	0.997282	395.951	0.985186	3.06512e-06	395.951
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	0	0.98987	0.9857	0.989863	0.994224	449.607	0.988453	1.1866e-05	449.607
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	1	0.989674	0.985404	0.989682	0.993893	322.081	0.987675	1.12705e-05	322.081
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	1	0.9952	0.992947	0.995474	0.997115	258.415	0.982741	2.63517e-06	258.415
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	2	0.99536	0.993013	0.99542	0.997362	284.02	0.98264	2.56914e-06	284.021
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	2	0.989681	0.985101	0.990056	0.993725	287.226	0.987781	1.11684e-05	287.226
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	3	0.995363	0.993388	0.995473	0.997223	339.268	0.982581	2.56811e-06	339.268
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	3	0.990029	0.985982	0.990379	0.993723	239.976	0.986327	9.80049e-06	239.976

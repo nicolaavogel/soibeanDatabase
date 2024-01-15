@@ -1,0 +1,16 @@
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	0	0.53622	0.45086	0.536437	0.62237	9882.62	0.931647	0.00438566
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	0	0.419548	0.335327	0.418424	0.504504	9882.37	0.932691	0.00428503
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	0	0.0442313	0.0130389	0.038544	0.0831859	19851.3	0.860661	0.000810006
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	1	0.419279	0.33654	0.418034	0.503773	9437.07	0.932717	0.00424773
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	1	0.536378	0.451192	0.53635	0.621704	9493.09	0.931673	0.00438083
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	1	0.0443431	0.0130505	0.0387459	0.0833367	18488.4	0.85976	0.000812979
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	2	0.41811	0.335451	0.416896	0.502384	9397.44	0.930764	0.00420753
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	2	0.537414	0.452022	0.537759	0.622484	9482.82	0.930473	0.00434231
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	2	0.0444765	0.0129697	0.0391347	0.0835311	18454.1	0.858484	0.000813847
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	3	0.417436	0.333943	0.416719	0.501976	10117.9	0.932842	0.00425384
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	3	0.538578	0.452548	0.539014	0.623865	9976.86	0.931614	0.00436327
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	3	0.0439855	0.012618	0.0382273	0.083193	18590.9	0.859271	0.000816508

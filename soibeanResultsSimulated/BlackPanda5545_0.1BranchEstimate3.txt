@@ -1,0 +1,16 @@
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	0	0.981242	0.959256	0.985691	0.997414	6654.49	0.912848	0.000283417	6654.49
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	0	0.816698	0.565445	0.880274	0.962538	281.498	0.99634	0.0343168	281.499
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	0	0.154133	0.0449128	0.135441	0.292481	192.059	0.988421	0.00949722	192.059
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	1	0.815663	0.611782	0.871846	0.955706	301.458	0.996007	0.0303032	301.458
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	1	0.981582	0.960435	0.985606	0.997319	10543.8	0.90807	0.000258735	10543.8
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	1	0.140229	0.0438587	0.123036	0.259525	1792.41	0.986085	0.00781621	1792.41
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	2	0.798571	0.475297	0.86649	0.955804	95.0837	0.996708	0.0372528	95.084
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	2	0.981166	0.95923	0.98557	0.997362	8608.45	0.911264	0.000273877	8608.46
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	2	0.14552	0.0445721	0.130748	0.265658	1309.42	0.985629	0.00771229	1309.42
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	3	0.826894	0.624221	0.880975	0.958091	127.793	0.995614	0.0281416	127.792
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	3	0.981497	0.959906	0.985836	0.997306	5590.31	0.910078	0.000264371	5590.31
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	3	0.137798	0.0419634	0.117882	0.26256	613.211	0.985879	0.00787841	613.211

@@ -1,0 +1,12 @@
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	0	0.984097	0.974873	0.985006	0.992265	6832.61	0.914696	4.76617e-05	6832.61
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	0	0.972966	0.95335	0.975877	0.989283	4965.51	0.94708	0.000216988	4965.51
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	1	0.984194	0.97492	0.98515	0.992152	5188.21	0.914608	4.71636e-05	5188.21
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	1	0.973197	0.953267	0.976134	0.989461	4903.98	0.948818	0.000221729	4903.98
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	2	0.973335	0.954151	0.975817	0.989622	5475.14	0.947347	0.000211596	5475.14
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	2	0.984195	0.975036	0.985056	0.992064	8177.09	0.913453	4.63705e-05	8177.09
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	3	0.972749	0.952377	0.975323	0.989399	2158	0.94932	0.00022171	2158
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	3	0.984128	0.974989	0.984977	0.992135	7124.67	0.91411	4.67445e-05	7124.67
