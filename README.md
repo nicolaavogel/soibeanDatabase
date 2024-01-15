@@ -11,7 +11,7 @@
 Please note that all scripts need to be executable using ```chmod +x <script.sh>```. Additionally, please adjust the absolute paths used in the scripts to fit the location of the tools.
 
 ## Test data
-All simulated FASTQ files used in the publication are in the ```test data `` folder. Parameters used for the specific FASTQ files can be found in the publication. 
+All simulated FASTQ files used in the publication are in the ```testData``` folder. Parameters used for the specific FASTQ files can be found in the publication. 
 
 ## Visualization 
 All visualization scripts can be found in the ```RPlottingScripts``` folder. 
