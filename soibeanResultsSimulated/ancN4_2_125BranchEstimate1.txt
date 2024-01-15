@@ -1,0 +1,16 @@
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N5Ursidae	0	0.55434	0.00281527	0.952729	0.995982	1612.36	0.795371	0.229693	9185.27
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N4Ursidae	1	0.557836	0.00269347	0.958286	0.996096	5556.53	0.788422	0.230594	8338
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	2	0.561269	0.00250525	0.957406	0.996346	5622.51	0.787163	0.230165	1671.78
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N4Ursidae	3	0.564221	0.00257656	0.956855	0.996497	4671.11	0.790497	0.22923	7948.73
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N5Ursidae	0	0.551783	0.00242074	0.954415	0.996132	5550.77	0.783582	0.231206	10282.5
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N4Ursidae	1	0.578404	0.00284602	0.957958	0.996224	4747.88	0.786565	0.226753	8719.33
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N4Ursidae	2	0.56548	0.00277358	0.955607	0.995882	2842.33	0.789685	0.228196	5882.66
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N4Ursidae	3	0.562468	0.00275079	0.957339	0.996058	5250.78	0.790774	0.22951	10332.9

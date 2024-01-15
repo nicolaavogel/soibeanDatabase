@@ -1,0 +1,16 @@
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	0	0.0125754	0.00335959	0.0106032	0.0243825	4434.95	0.84196	8.00987e-05	4434.95
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	1	0.0126423	0.00328953	0.0105675	0.0244861	5459.29	0.844556	8.18302e-05	5459.29
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	2	0.0128323	0.00345234	0.0107337	0.0248698	4755.15	0.845658	8.28252e-05	4755.15
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	3	0.0131459	0.00343448	0.01114	0.0257375	1295.95	0.849323	8.52391e-05	1295.95
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	0	0.0129475	0.00345351	0.0109352	0.0251273	4499.44	0.850734	8.52046e-05	4499.44
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	1	0.0127108	0.00336277	0.0106106	0.0249559	5249.6	0.833457	8.09639e-05	5249.6
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	2	0.0128953	0.00340151	0.0108243	0.0247675	5454.44	0.840391	8.32479e-05	5454.44
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	3	0.0126451	0.00341377	0.0106735	0.0242969	5119.09	0.837385	8.0485e-05	5119.09

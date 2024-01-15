@@ -1,0 +1,16 @@
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N5Ursidae	0	0.105535	0.0234783	0.078809	0.217811	51.6978	0.937747	0.00835889	51.6979
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N5Ursidae	1	0.0920354	0.0225147	0.0728363	0.186371	969.68	0.89818	0.00511931	969.679
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N5Ursidae	2	0.0938303	0.0232722	0.0778195	0.181924	838.368	0.889824	0.00469259	838.367
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N5Ursidae	3	0.0989855	0.0234946	0.0775703	0.209354	154.301	0.915967	0.00614137	154.301
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N5Ursidae	0	0.0958956	0.0236027	0.0766401	0.197062	281.574	0.903213	0.00536496	33706.2
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N5Ursidae	1	0.0896409	0.0229489	0.0736949	0.174045	1888.21	0.887321	0.00458552	1888.2
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N5Ursidae	2	0.106983	0.023683	0.0792485	0.231525	35.0881	0.938466	0.0084133	35.0882
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+N5Ursidae	3	0.090868	0.0229049	0.0733997	0.177093	1614.84	0.898362	0.00512538	1614.85

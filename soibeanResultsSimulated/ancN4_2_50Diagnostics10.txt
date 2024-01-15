@@ -1,0 +1,2 @@
+Source	Highest log-likelihood	for chain	Rhat for the proportion estimate	Rhat for the branch position estimate
+N5Ursidae	-499.204	3	-nan	1.0053
