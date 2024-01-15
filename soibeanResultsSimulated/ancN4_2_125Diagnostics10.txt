@@ -1,4 +1,0 @@
-Source	Highest log-likelihood	for chain	Rhat for the proportion estimate	Rhat for the branch position estimate
-N4Ursidae	-2281.19	1	inf	1.21364
-N5Ursidae	-2281.19	1	inf	1.52211
-NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	-2281.19	1	-nan	-nan

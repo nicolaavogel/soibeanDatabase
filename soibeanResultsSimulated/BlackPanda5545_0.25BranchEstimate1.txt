@@ -1,8 +1,0 @@
-Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
-NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	0	0.708505	0.640857	0.713622	0.769546	10204.5	0.810664	0.00268198	10204.5
-Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
-NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	1	0.708825	0.638229	0.714122	0.771678	1618.86	0.817283	0.00276747	1618.86
-Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
-NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	2	0.709634	0.641797	0.714591	0.770999	8547.85	0.810141	0.00266843	8547.83
-Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
-NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	3	0.708837	0.640113	0.714018	0.771278	3542.86	0.818345	0.00277797	3542.84

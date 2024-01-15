@@ -1,2 +1,0 @@
-Source	Highest log-likelihood	for chain	Rhat for the proportion estimate	Rhat for the branch position estimate
-NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	-1390.05	1	-nan	1.00012
