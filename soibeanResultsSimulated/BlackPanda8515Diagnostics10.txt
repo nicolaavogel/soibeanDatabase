@@ -1,0 +1,2 @@
+Source	Highest log-likelihood	for chain	Rhat for the proportion estimate	Rhat for the branch position estimate
+NC_003426.1_Ursus_americanus_mitochondrion__complete_genome	-25464.3	0	-nan	1

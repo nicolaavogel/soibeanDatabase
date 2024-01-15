@@ -1,0 +1,16 @@
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	0	0.130626	0.0954422	0.128408	0.168827	2418.11	0.958189	0.000840639
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	0	0.802643	0.757559	0.804538	0.845058	2545.23	0.958413	0.00114078
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	0	0.0667306	0.039264	0.064803	0.0967291	2565.49	0.953399	0.000494779
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	1	0.13105	0.0953432	0.129401	0.170404	3479.75	0.957432	0.000849117
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	1	0.804027	0.760321	0.805754	0.844978	2688.25	0.957354	0.00113765
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	1	0.064923	0.0382785	0.0629541	0.0950762	2058.41	0.953102	0.000504268
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	2	0.803287	0.760236	0.804942	0.846065	3531.88	0.957552	0.00114886
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	2	0.131178	0.0945072	0.129235	0.170137	3154.2	0.956883	0.00084577
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	2	0.0655353	0.0385136	0.0634855	0.0956837	2725.74	0.955613	0.000511945
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	3	0.803374	0.759948	0.804976	0.844536	3237.5	0.956628	0.00107256
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	3	0.0659844	0.0388992	0.0638692	0.0958397	2273.48	0.955341	0.000498462
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	3	0.130642	0.0953704	0.129131	0.168558	2834.37	0.956687	0.000801057

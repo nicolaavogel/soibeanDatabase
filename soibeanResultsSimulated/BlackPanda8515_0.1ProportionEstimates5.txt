@@ -1,0 +1,24 @@
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	0	0.0922574	0.0420232	0.0885872	0.146245	34.2687	0.955	0.00167086
+N4Ursidae	0	0.0605681	0.0198297	0.0560696	0.106745	85.8511	0.952468	0.00118189
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	0	0.298259	0.017401	0.17585	0.74698	7.70177	0.998788	0.0816878
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	0	0.429934	0.0248983	0.464916	0.795533	3.91682	0.998686	0.097057
+NC_003428.1_Ursus_maritimus_mitochondrion__complete_genome	0	0.118981	0.0171271	0.0607009	0.350897	14.4092	0.997203	0.0274165
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	1	0.0836216	0.0326661	0.0795863	0.139625	2404.87	0.970321	0.00169594
+N3Ursidae	1	0.0231721	0.00288215	0.0158874	0.0531236	56.7067	0.957474	0.000511096
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	1	0.0689121	0.0286104	0.0641382	0.114672	336.175	0.96888	0.00118529
+NC_003428.1_Ursus_maritimus_mitochondrion__complete_genome	1	0.064366	0.020144	0.0571667	0.11857	1781.92	0.969516	0.00146297
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	1	0.759928	0.687853	0.760343	0.832451	1819.01	0.975418	0.00300006
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	2	0.0849702	0.0339376	0.0807957	0.140654	2049.83	0.975229	0.00173179
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	2	0.0730699	0.0327958	0.0686887	0.119128	2180.61	0.972341	0.00118583
+NC_009492.1_Ailuropoda_melanoleuca_mitochondrion__complete_genome	2	0.018227	0.00214771	0.0124088	0.0398635	253.664	0.981585	0.00057146
+NC_003428.1_Ursus_maritimus_mitochondrion__complete_genome	2	0.0625549	0.0192138	0.0561549	0.113762	1901.73	0.974997	0.00141572
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	2	0.761178	0.688415	0.764369	0.833312	1149.8	0.981125	0.00334311
+Source	Chain	Mean Proportion Estimate	5% CI	Median Proportion Estimate	95% CI	Effective Sample Size	Autocorrelation	Variance
+N10Ursidae	3	0.267454	0.0101114	0.112486	0.731577	17.5082	0.998584	0.0787929
+NC_003428.1_Ursus_maritimus_mitochondrion__complete_genome	3	0.062668	0.020754	0.0567701	0.112265	1356.65	0.950331	0.00136417
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	3	0.0815241	0.0328324	0.0778327	0.133956	2969.48	0.951343	0.00159532
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	3	0.0689222	0.0300641	0.063942	0.114999	3645.48	0.945114	0.00112659
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	3	0.519432	0.0378344	0.659631	0.799842	17.4395	0.998233	0.0810419

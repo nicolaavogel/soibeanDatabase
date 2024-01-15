@@ -1,0 +1,16 @@
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	0	0.905724	0.801902	0.927952	0.984561	263.737	0.99741	0.00658107	263.737
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	0	0.994874	0.989009	0.996129	0.99927	2965.89	0.966047	2.01045e-05	2965.89
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	0	0.165184	0.0477129	0.128679	0.324756	140.726	0.998885	0.0168898	140.727
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	1	0.898811	0.772215	0.923701	0.983757	146.443	0.997516	0.00766334	146.443
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	1	0.994759	0.988438	0.996155	0.999358	2421.5	0.967189	2.21949e-05	2421.5
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	1	0.190856	0.0534651	0.142988	0.393157	131.602	0.999116	0.0226314	131.602
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	2	0.994786	0.988734	0.99589	0.999261	2550.01	0.96438	2.04604e-05	2550.01
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	2	0.901447	0.788082	0.924729	0.984638	343.488	0.997275	0.00716607	343.488
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	2	0.191582	0.0575367	0.148334	0.365816	59.6932	0.999177	0.0247974	59.6939
+Source	Chain	Mean Branch Position	95% CI	Median Branch Position	95% CI	Effective Sample Size	Autocorrelation	Variance	Effective Sample Size for the source estimation
+NC_011112.1_Ursus_spelaeus_mitochondrion__complete_genome	3	0.994891	0.988937	0.996073	0.999288	2674.94	0.967681	2.02064e-05	2674.94
+NC_009968.1_Helarctos_malayanus_mitochondrion__complete_genome	3	0.174388	0.0528719	0.146112	0.331491	190.13	0.998712	0.0151752	190.131
+NC_003427.1_Ursus_arctos_mitochondrion__complete_genome	3	0.907871	0.797155	0.929979	0.986347	279.351	0.997466	0.00695936	279.351
